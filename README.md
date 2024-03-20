@@ -1,6 +1,6 @@
 ### About Me 👋
 
-I am a third-year undergraduate student from studying New Energy Science and Engineering in Guangdong University of Technology.
+I am a third-year undergraduate student studying New Energy Science and Engineering in Guangdong University of Technology.
 <!--
 **TimMCBen/TimMCBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
