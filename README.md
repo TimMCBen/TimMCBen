@@ -1,6 +1,6 @@
-### About Me 👋
+### Introduction
 
-I am a third-year undergraduate student studying New Energy Science and Engineering in Guangdong University of Technology.
+Hello there! 👋 I'm Wenlang Huang, a third-year undergraduate student majoring in New Energy Science and Engineering at Guangdong University of Technology. I'm currently preparing for my graduate studies and actively seeking opportunities to pursue a Ph.D. in Computer Science or a related field.
 <!--
 **TimMCBen/TimMCBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
